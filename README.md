@@ -4,7 +4,7 @@ E-commerce website using react.js
 
 1.Introduction
 
- - This is a sample 🛒e-commerce website built using HTML, CSS, and JavaScript. The website is designed to showcase the various features of an e-commerce website, including product 
+ - This is a sample fronted 🛒e-commerce website built using React.js. The website is designed to showcase the various features of an e-commerce website, including product 
   listings, shopping carts, and login pages.
   
 2.Key Sections Covered
