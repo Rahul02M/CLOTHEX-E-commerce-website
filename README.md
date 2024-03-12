@@ -1,5 +1,4 @@
-# CLOTHEX-E-commerce-website
-E-commerce website using react.js
+#CLOTHEX E-commerce website  using react.js
 
 
 1.Introduction
@@ -12,7 +11,11 @@ E-commerce website using react.js
 - Multipage Ecommerce Website Project with Signin & Singup page.<br>
 - Use common components and layout patterns for professional 🌐website design and development.<br>
 - Build amazing👍 professional and responsive websites.<br>
-- Advanced responsive design using media queries & Many More.<br>
+
+
+3 .Learning from the Project
+
+ → In this construct week project, we have used the import-export functionality to export and import the navbar and footer section, it gave the learning to reuse the same code on different pages without complication.
 
 3 . Screenshots
 
