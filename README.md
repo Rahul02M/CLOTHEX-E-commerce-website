@@ -15,7 +15,7 @@
 
 3 .Learning from the Project
 
- → In this construct week project, we have used the import-export functionality to export and import the navbar and footer section, it gave the learning to reuse the same code on different pages without complication.
+- In this construct week project, we have used the import-export functionality to export and import the navbar and footer section, it gave the learning to reuse the same code on different pages without complication.
 
 3 . Screenshots
 
