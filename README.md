@@ -11,6 +11,13 @@
 - Multipage Ecommerce Website Project with Signin & Singup page.<br>
 - Use common components and layout patterns for professional 🌐website design and development.<br>
 - Build amazing👍 professional and responsive websites.<br>
+- Setup: Initialize your project and set up the necessary files.<br>
+- Navbar: Create a navigation bar for easy access to the cart.<br>
+-  Product Cards: Display product information (image, title, description, price).<br>
+- Increment and Decrement Functions: Implement buttons to adjust item quantities.<br>
+- Update Functions: Update the cart based on user actions.<br>
+- Calculation: Calculate the total bill.<br>
+- Remove Item: Allow users to remove items from the cart.<br
 
 
 3 .Learning from the Project
