@@ -1,4 +1,4 @@
-#CLOTHEX E-commerce website  using react.js
+# CLOTHEX E-commerce website  using react.js
 
 
 1.Introduction
